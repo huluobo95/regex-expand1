@@ -1,0 +1,8 @@
+{
+  "name": "regex-expand",
+  "display_name": "正则展开",
+  "version": "1.0.0",
+  "author": "you",
+  "description": "自动展开 details",
+  "js": "index.js"
+}
