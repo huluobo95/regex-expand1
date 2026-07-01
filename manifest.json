@@ -2,7 +2,11 @@
     "name": "regex-expand",
     "display_name": "正则表达式框放大增强",
     "version": "1.0.0",
-    "description": "放大正则编辑框",
+    "description": "为正则编辑器的“查找”和“替换”标题后添加全屏放大编辑按钮",
     "author": "AI",
-    "js": ["index.js"]
+    "loading_order": 10,
+    "js": ["index.js"],
+    "css": [],
+    "requires": [],
+    "optional": [https://github.com/huluobo95/regex-expand1]
 }
