@@ -1,8 +1,8 @@
 {
-  "name": "regex-expand",
-  "display_name": "正则展开",
-  "version": "1.0.0",
-  "author": "you",
-  "description": "自动展开 details",
-  "js": "index.js"
+    "manifest_version": 1,
+    "name": "正则替换框展开编辑器",
+    "version": "1.0",
+    "description": "给正则替换框添加右侧的“展开编辑”按钮，方便输入长代码。",
+    "author": "User",
+    "entrypoint": "index.js"
 }
