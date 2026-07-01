@@ -6,5 +6,8 @@
     "author": "AI Assistant",
     "js": ["index.js"],
     "css": [],
+    "requires": [],
+    "optional": [],
+    "settings": {},
     "dynamic_styles": true
 }
